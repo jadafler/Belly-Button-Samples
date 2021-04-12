@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(219, 216, 216);
+}
+
+.jumbotron {
+    background-image: url("../images/research.jpeg");
+    background-size: 100% 100%;
+    
+};
